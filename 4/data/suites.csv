@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","0","test_add_zero","","Mon Mar 16 10:59:38 UTC 2026","passed","Mon Mar 16 10:59:38 UTC 2026","","test_mymath","",""
+"","0","test_add_positive","","Mon Mar 16 10:59:37 UTC 2026","passed","Mon Mar 16 10:59:37 UTC 2026","","test_mymath","",""
+"","0","test_add_negative","","Mon Mar 16 10:59:38 UTC 2026","passed","Mon Mar 16 10:59:38 UTC 2026","","test_mymath","",""
+"","0","test_add_string__expect_exception","","Mon Mar 16 10:59:38 UTC 2026","passed","Mon Mar 16 10:59:38 UTC 2026","","test_mymath","",""
